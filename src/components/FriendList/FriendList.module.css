@@ -1,0 +1,23 @@
+.friendList {
+  display: flex;
+  flex-direction: column;
+}
+.item {
+  width: 200px;
+  display: inline-flex;
+  align-items: center;
+
+  background-color: #ffffff;
+  border: 1px solid rgb(158, 168, 180);
+  box-shadow: rgba(126, 147, 255, 0.2) 0px 1px 4px;
+  border-radius: 5px;
+
+  margin-bottom: 5px;
+}
+
+.avatar {
+    padding: 5px;
+}
+.name {
+    font-weight: 600;
+}

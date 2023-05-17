@@ -1,0 +1,25 @@
+.transactionHistory {
+  width: 100%;
+
+  text-align: center;
+  background-color: #ffffff;
+  overflow-y:auto
+}
+thead {
+  background-color: rgb(66, 189, 213);
+  color: #ffffff;
+  font-size: 15px;
+}
+th,
+td {
+  padding: 15px 0px;
+}
+
+tr:nth-child(2n) {
+  background-color: rgb(237, 241, 245);
+}
+
+.respons{
+    overflow-y:auto;
+    height: 400px;
+}
