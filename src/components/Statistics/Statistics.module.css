@@ -13,8 +13,7 @@
   padding: 20px;
   color: rgb(83, 91, 96);
 }
-.statList {
-}
+ 
 .item {
   display: inline-flex;
   flex-direction: column;
@@ -26,6 +25,4 @@
     margin-bottom: 5px;
     font-size: 13px;
 }
-.percentage {
-
-}
+ 
